@@ -16,17 +16,17 @@ The implementation of predicting the occupancy status of the room. The accuracy 
 
 ## Getting Started <a name = "getting_started"></a>
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
-```
+
 ## Usage <a name="usage"></a>
 The decision tree is designed to adeptly handle various exceptional scenarios, including:
 
-Multiple true conditions within a node.
-Ambiguous or missing data for specific variables.
-Unforeseen combinations of input values.
-Outliers or extreme values affecting decision outcomes.
-Situations where certain variables are undefined or null.
-Dynamic adjustments for evolving data patterns.
-Handling of conflicting or contradictory information within the dataset.
+-Multiple true conditions within a node.
+-Ambiguous or missing data for specific variables.
+-Unforeseen combinations of input values.
+-Outliers or extreme values affecting decision outcomes.
+-Situations where certain variables are undefined or null.
+-Dynamic adjustments for evolving data patterns.
+-Handling of conflicting or contradictory information within the dataset.
 
 ## Built Using <a name = "built_using"></a>
 - C++
