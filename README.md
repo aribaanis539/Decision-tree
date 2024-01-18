@@ -7,7 +7,7 @@
 ## Table of Contents
 - [About](#about)
 - [Getting Started](#getting_started)
-- [Case Handling](#case_handling)
+- [Usage](#usage)
 - [Built Using](#built_using)
 - [Authors](#authors)
 
@@ -17,7 +17,7 @@ The implementation of predicting the occupancy status of the room. The accuracy 
 ## Getting Started <a name = "getting_started"></a>
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 ```
-## Case Handling <a name = "case_handling"></a>
+## Usage <a name="usage"></a>
 The decision tree is designed to adeptly handle various exceptional scenarios, including:
 
 Multiple true conditions within a node.
